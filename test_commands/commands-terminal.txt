@@ -1,0 +1,5 @@
+E:/workout_programs/VMS_PROJECTS/ts-works-assignment/venv/Scripts/python.exe -m ipykernel install --user --name=ts-anomaly-venv --display-name="Python 3.10 (ts-anomaly)"
+
+E:/workout_programs/VMS_PROJECTS/ts-works-assignment/venv/Scripts/jupyter.exe notebook --notebook-dir=E:/workout_programs/VMS_PROJECTS/ts-works-assignment/notebooks
+
+
