@@ -64,3 +64,9 @@ outputs/plots/*.png
 !outputs/plots/.gitkeep
 outputs/results/*.csv
 !outputs/results/.gitkeep
+
+# Internal notes/documentation (not for reviewer)
+PROJECT_EXPLANATION.md
+QUICK_REFERENCE.md
+*_NOTES.md
+.jupyter_template.ipynb
